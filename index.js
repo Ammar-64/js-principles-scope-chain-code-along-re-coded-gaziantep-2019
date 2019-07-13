@@ -17,7 +17,6 @@ function changeLeastFavoriteCustomer(){
 }
 
 function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = 'bob'
-  let favoriteCustomer = 'not bob'
+
   throw SyntaxError('hack to make the test pass');
 }
