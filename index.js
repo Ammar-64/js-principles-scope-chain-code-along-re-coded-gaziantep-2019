@@ -8,3 +8,6 @@ let bestCustomer
 function setBestCustomer(){
   return bestCustomer = 'not bob'
 }
+function overWriteBestCustomer(){
+  return bestCustomer = 'maybe bob'
+}
