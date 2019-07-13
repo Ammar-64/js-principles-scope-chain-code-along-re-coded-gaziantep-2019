@@ -12,6 +12,6 @@ function overWriteBestCustomer(){
   return bestCustomer = 'maybe bob'
 }
 const leastFavoriteCustomer = 'bob'
-function changeLeastFavoriteCustomerhttp(){
+function changeLeastFavoriteCustomer(){
   return leastFavoriteCustomer = 'not bob'
 }
